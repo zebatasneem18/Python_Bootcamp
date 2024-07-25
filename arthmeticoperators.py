@@ -1,0 +1,7 @@
+a,b=map(int,input().split())
+print("Addition of two numbers",a+b)
+print("Subraction of two numbers",a-b)
+print("Multiplication of two numbers",a*b)
+print("Division of two numbers",a/b)
+print("Mod of two numbers",a%b)
+print("power of two numbers",a**b)
